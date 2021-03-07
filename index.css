@@ -89,19 +89,10 @@ foreignObject{
   right: 0px;
 }
 
-.divider-JfaTT5::before {
-  content: "";
-  background-color: var(--text-muted);
-  height: 1px;
-  transform: translateY(-10px);
-  width: 100vw;
-  margin-right: -200px;
-}
-
 .unreadPill-2HyYtt {
   background-color: transparent;
   font-weight: 600;
-}
+} 
 
 .unreadPill-2HyYtt svg {
     display: none;
