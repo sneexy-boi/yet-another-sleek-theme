@@ -15,6 +15,7 @@
     --interactive-active: #fff;
     --interactive-muted: #4f545c;
     --background-primary: #050505;
+    --background-color: #050505;
     --background-secondary: #050505;
     --background-tertiary: #050505;
     --background-accent: #A23448;
@@ -27,11 +28,11 @@
     --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
     --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
     --channeltextarea-background: #050505;
-    --activity-card-background: #202225;
-    --deprecated-panel-background: #292b2f;
+    --activity-card-background: #050505;
+    --deprecated-panel-background: #050505;
     --deprecated-card-bg: rgba(32, 34, 37, 0.6);
     --deprecated-card-editable-bg: rgba(32, 34, 37, 0.3);
-    --deprecated-store-bg: #36393f;
+    --deprecated-store-bg: #050505;
     --deprecated-quickswitcher-input-background: #72767d;
     --deprecated-quickswitcher-input-placeholder: hsla(0, 0%, 100%, 0.3);
     --deprecated-text-input-bg: rgba(0, 0, 0, 0.1);
