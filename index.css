@@ -113,20 +113,6 @@ foreignObject{
   margin-left: 0px;
 }
 
-.role-2irmRk {
-  background-color: var(--background-tertiary);
-  border-radius: 4px;
-  border: none;
-  padding: 0 5px 0 8px;
-  height: 25px;
-}
-.role-2irmRk.actionButton-VzECiy {
-  background-color: var(--background-tertiary);
-  padding-left: 7px;
-  padding-right: 7px;
-}
-.role-2irmRk .roleCircle-3xAZ1j {
-  margin-right: 6px;
-  width: 9px;
-  height: 9px;
+.header-23xsNx{
+  user-select:none;
 }
