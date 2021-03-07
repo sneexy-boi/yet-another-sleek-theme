@@ -3,6 +3,7 @@
 /* shoutouts to LuckFire#4800 and Gibbu#1211 */
 /* radial statuses is built in to fix the issue of the statuses next to avatars looking strange and i'm too stupid to fix it */
 
+/* colors */
 :root {
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
@@ -20,8 +21,8 @@
     --background-tertiary: #050505;
     --background-accent: #A23448;
     --background-floating: #050505;
-    --background-modifier-hover: #0D0D0D;
-    --background-modifier-active: #141414;
+    --background-modifier-hover: #1d1c1c;
+    --background-modifier-active: #222020;
     --background-modifier-selected: #363636;
     --background-modifier-accent: #141414;
     --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
@@ -33,13 +34,18 @@
     --deprecated-card-bg: rgba(32, 34, 37, 0.6);
     --deprecated-card-editable-bg: rgba(32, 34, 37, 0.3);
     --deprecated-store-bg: #050505;
-    --deprecated-quickswitcher-input-background: #050505;
-    --deprecated-quickswitcher-input-placeholder: #050505;
+    --deprecated-quickswitcher-input-background: #72767d;
+    --deprecated-quickswitcher-input-placeholder: hsla(0, 0%, 100%, 0.3);
     --deprecated-text-input-bg: rgba(0, 0, 0, 0.1);
     --deprecated-text-input-border: rgba(0, 0, 0, 0.3);
     --deprecated-text-input-border-hover: #040405;
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
+    --toast-background: var(--background-primary);
+    --toast-header: var(--background-tertiary);
+    --toast-contents: var(--background-secondary);
+    --toast-border: var(--background-tertiary);
+    --toast-box-shadow: rgba(0, 0, 0, .2);;
     --rs-small-spacing: 2px;
     --rs-large-spacing: 3px;
     --rs-width: 2px;
@@ -51,14 +57,21 @@
     --rs-streaming-color: #643da7;
     --rs-invisible-color: #747f8d;
 }
+/* colors the reactions popup and colors the join/explore server buttons */
+  .circleIconButton-jET_ig svg path{ fill: var(--background-accent); }
+  .circleIconButton-jET_ig.selected-ugP_am { background-color: var(--background-accent); }
+  .circleIconButton-jET_ig.selected-ugP_am svg path{ fill: white; }
+  .reactors-Blmlhw.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: var(--background-primary); }
+  .scroller-1-nKid.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: var(--background-primary); }
 
-/* thanks to Doggybootsy#1333 for helping me with this */
+
+/* squared avatars and server icons, just like in cutthecord (thanks to Doggybootsy#1333 for helping me with this) */
 foreignObject{
     mask: none;border-radius:10%;
   }
   .avatar-1BDn8e{border-radius:10%;}
 
-/* snippet borrowed from Chromus#4761 */
+/* colored ping to be crimson red (snippets borrowed from Chromus#4761) */
 .wrapper-3WhCwL {
     color: #A23448;
     background: rgba(232, 69, 69, 0.1);
