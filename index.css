@@ -81,32 +81,52 @@ foreignObject{
 .iconContainer-O4O2CN{bottom: 3px;}
 .search-36MZv-{margin-left: 0px;}
 
-.avatarWrapper-2yR4wp{
-    position: relative;
-    right: -80px 
-  }
-  .title-eS5yk3 {
-    position: relative;
-    top: 300px;
-  }
-  .subtext-3CDbHg {
-    position: relative;
-    top: 300px;
-  }
-  .nameTag-3uD-yy.canCopy-2VBT7N {
-    position: relative;
-    top: 300px;
-  }
+.colorDefault-2K3EoJ { border-radius: 15px; }
 
-  .panels-j1Uci_ .container-3baos1 button[aria-checked="false"], .panels-j1Uci_ .container-3baos1 button:not([role="switch"]) {
-      transition: 0.2s ease-in-out;
-      width: 0px !important;
-      overflow: hidden !important;
-      opacity: 0 !important;
-  }
-  .panels-j1Uci_ .container-3baos1:hover button.button-14-BFJ {
-      transition: 0.2s ease-in-out;
-      width: 32px !important;
-      overflow: visible !important;
-      opacity: 1 !important;
-  }
+.divider-JfaTT5 {
+  position: absolute;
+  border-top: unset;
+  right: 0px;
+}
+
+.divider-JfaTT5::before {
+  content: "";
+  background-color: var(--text-muted);
+  height: 1px;
+  transform: translateY(-10px);
+  width: 100vw;
+  margin-right: -200px;
+}
+
+.unreadPill-2HyYtt {
+  background-color: transparent;
+  font-weight: 600;
+}
+
+.unreadPill-2HyYtt svg {
+    display: none;
+}
+
+.iconContainer-2-XQPY {
+  order: -1;
+  margin-right: 8px; 
+  margin-left: 0px;
+}
+
+.role-2irmRk {
+  background-color: var(--background-tertiary);
+  border-radius: 4px;
+  border: none;
+  padding: 0 5px 0 8px;
+  height: 25px;
+}
+.role-2irmRk.actionButton-VzECiy {
+  background-color: var(--background-tertiary);
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.role-2irmRk .roleCircle-3xAZ1j {
+  margin-right: 6px;
+  width: 9px;
+  height: 9px;
+}
