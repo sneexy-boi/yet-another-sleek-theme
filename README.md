@@ -1,5 +1,5 @@
 # CutTheTheme
-Simple Powercord theme which tries to replicate the CutTheCord theme. Also my first Powercord theme :D
+Simple Powercord theme which tries to replicate the default CutTheCord theme. Also my first Powercord theme :D
 
 
 
