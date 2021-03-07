@@ -12,7 +12,7 @@ Includes Radial Status by default because I'm too stupid to fix an issue with st
 Thanks to LuckFire for Theme-Source, (https://github.com/LuckFire/Theme-Source)
 
 
-Chromus and Doggybootsy for their snippets/help.
+Chromus, Doggybootsy and snappy for their snippets/help.
 
 
 Gibbu for Radial Status, (https://github.com/DiscordStyles/RadialStatus)
