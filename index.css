@@ -67,13 +67,19 @@
 /* colors the server boost background */
 .perksModalContentWrapper-2HU6uL { background: var(--background-primary) !important; }
 
-/* thanks to Doggybootsy#1333 for helping me with this */
+/* makes avatars and server icons squared (thanks to Doggybootsy#1333 for helping me with this) */
 foreignObject{
     mask: none;border-radius:10%;
   }
   .avatar-1BDn8e{border-radius:10%;}
 
-/* snippets borrowed from Chromus#4761 */
+/* makes avatars in vc squared */
+  foreignObject{
+    mask: none;border-radius:10%;
+   }
+   .avatarContainer-28iYmV{border-radius:10%;}
+
+/* colored pings (snippets borrowed from Chromus#4761) */
 .wrapper-3WhCwL {
     color: #A23448;
     background: rgba(232, 69, 69, 0.1);
