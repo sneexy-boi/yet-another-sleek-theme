@@ -1,5 +1,5 @@
 # CutTheTheme
-Simple Powercord theme which tries to replicate the default CutTheCord theme. Also my first Powercord theme :D
+Simple Powercord theme which tries to replicate the default CutTheCord theme. Please excuse this page looking bad, its my first time actually using GitHub.
 
 
 Includes Radial Status by default because I'm too stupid to fix an issue with statuses looking weird. 
