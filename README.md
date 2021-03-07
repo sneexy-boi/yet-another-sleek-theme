@@ -1,2 +1,2 @@
-# yet-another-sleek-theme
-Simple Powercord theme that tries to be clean and sleek.
+# CutTheTheme
+Simple Powercord theme which tries to replicate the CutTheCord theme.
