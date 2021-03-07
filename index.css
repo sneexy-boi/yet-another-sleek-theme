@@ -57,21 +57,23 @@
     --rs-streaming-color: #643da7;
     --rs-invisible-color: #747f8d;
 }
-/* colors the reactions popup and colors the join/explore server buttons */
+/* colors the join/explore server buttons */
   .circleIconButton-jET_ig svg path{ fill: var(--background-accent); }
   .circleIconButton-jET_ig.selected-ugP_am { background-color: var(--background-accent); }
   .circleIconButton-jET_ig.selected-ugP_am svg path{ fill: white; }
+/* colors the reactions popup */
   .reactors-Blmlhw.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: var(--background-primary); }
   .scroller-1-nKid.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: var(--background-primary); }
+/* colors the server boost background */
+.perksModalContentWrapper-2HU6uL { background: var(--background-primary) !important; }
 
-
-/* squared avatars and server icons, just like in cutthecord (thanks to Doggybootsy#1333 for helping me with this) */
+/* thanks to Doggybootsy#1333 for helping me with this */
 foreignObject{
     mask: none;border-radius:10%;
   }
   .avatar-1BDn8e{border-radius:10%;}
 
-/* colored ping to be crimson red (snippets borrowed from Chromus#4761) */
+/* snippets borrowed from Chromus#4761 */
 .wrapper-3WhCwL {
     color: #A23448;
     background: rgba(232, 69, 69, 0.1);
