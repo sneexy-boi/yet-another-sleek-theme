@@ -35,7 +35,7 @@
     --deprecated-card-editable-bg: #050505;
     --deprecated-store-bg: #050505;
     --deprecated-quickswitcher-input-background: #050505;
-    --deprecated-quickswitcher-input-placeholder: hsla(0, 0%, 100%, 0.3);
+    --deprecated-quickswitcher-input-placeholder: #050505;
     --deprecated-text-input-bg: rgba(0, 0, 0, 0.1);
     --deprecated-text-input-border: rgba(0, 0, 0, 0.3);
     --deprecated-text-input-border-hover: #040405;
