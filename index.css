@@ -79,6 +79,17 @@ foreignObject{
    }
    .avatarContainer-28iYmV{border-radius:10%;}
 
+/* makes avatar in gc vc squared */
+foreignObject{
+  mask: none;border-radius:10%;
+}
+.voiceAvatar-14IynY{border-radius:10%;}
+
+foreignObject{
+  mask: none;border-radius:10%;
+}
+.border-Jn5IOt{border-radius:10%;}
+
 /* colored pings (snippets borrowed from Chromus#4761) */
 .wrapper-3WhCwL {
     color: #A23448;
