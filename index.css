@@ -90,6 +90,11 @@ foreignObject{
 }
 .border-Jn5IOt{border-radius:10%;}
 
+foreignObject{
+  mask: none;border-radius:10%;
+} 
+.wrapper-3t9DeA{border-radius:10%;}
+
 /* colored pings (snippets borrowed from Chromus#4761) */
 .wrapper-3WhCwL {
     color: #A23448;
