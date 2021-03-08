@@ -95,6 +95,12 @@ foreignObject{
 } 
 .wrapper-3t9DeA{border-radius:10%;}
 
+/* make avatars in replies squared */
+foreignObject{
+  mask: none;border-radius:10%;
+} 
+.replyAvatar-1K9Wmr{border-radius:10%;}
+
 /* colored pings (snippets borrowed from Chromus#4761) */
 .wrapper-3WhCwL {
     color: #A23448;
