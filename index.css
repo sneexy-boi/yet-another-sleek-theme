@@ -1,5 +1,7 @@
+/* source and stuff, replace with "https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css" for only colors */
 @import url("https://raw.githack.com/sneexy-boi/CutTheTheme/main/src/source.css");
 
+/* colors */
 :root {
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
@@ -41,7 +43,7 @@
     --toast-header: var(--background-tertiary);
     --toast-contents: var(--background-secondary);
     --toast-border: var(--background-tertiary);
-    --toast-box-shadow: rgba(0, 0, 0, .2);;
+    --toast-box-shadow: rgba(0, 0, 0, .2);
     --rs-small-spacing: 2px;
     --rs-large-spacing: 3px;
     --rs-width: 2px;
