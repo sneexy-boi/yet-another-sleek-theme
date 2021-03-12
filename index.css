@@ -1,7 +1,4 @@
 @import url("https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css");
-@import url("https://discordstyles.github.io/RadialStatus/base.css");
-/* shoutouts to LuckFire#4800 and Gibbu#1211 */
-/* radial statuses is built in to fix the issue of the statuses next to avatars looking strange and i'm too stupid to fix it */
 
 /* colors */
 :root {
@@ -56,53 +53,4 @@
     --rs-offline-color: #636b75;
     --rs-streaming-color: #643da7;
     --rs-invisible-color: #747f8d;
-}
-/* colors the join/explore server buttons */
-  .circleIconButton-jET_ig svg path{ fill: var(--background-accent); }
-  .circleIconButton-jET_ig.selected-ugP_am { background-color: var(--background-accent); }
-  .circleIconButton-jET_ig.selected-ugP_am svg path{ fill: white; }
-/* colors the reactions popup */
-  .reactors-Blmlhw.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: var(--background-primary); }
-  .scroller-1-nKid.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: var(--background-primary); }
-/* colors the server boost background */
-.perksModalContentWrapper-2HU6uL { background: var(--background-primary) !important; }
-
-/* makes avatars and server icons squared (thanks to Doggybootsy#1333 for helping me with this) */
-foreignObject{
-    mask: none;border-radius:10%;
-  }
-  .avatar-1BDn8e{border-radius:10%;}
-
-/* makes avatars in vc squared */
-  foreignObject{
-    mask: none;border-radius:10%;
-   }
-   .avatarContainer-28iYmV{border-radius:10%;}
-
-/* makes avatar in gc vc squared */
-foreignObject{
-  mask: none;border-radius:10%;
-}
-.voiceAvatar-14IynY{border-radius:10%;}
-
-foreignObject{
-  mask: none;border-radius:10%;
-}
-.border-Jn5IOt{border-radius:10%;}
-
-foreignObject{
-  mask: none;border-radius:10%;
-} 
-.wrapper-3t9DeA{border-radius:10%;}
-
-/* make avatars in replies squared */
-foreignObject{
-  mask: none;border-radius:10%;
-} 
-.replyAvatar-1K9Wmr{border-radius:10%;}
-
-/* colored pings (snippets borrowed from Chromus#4761) */
-.wrapper-3WhCwL {
-    color: #A23448;
-    background: rgba(232, 69, 69, 0.1);
 }
