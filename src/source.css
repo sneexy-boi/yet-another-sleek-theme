@@ -1,5 +1,7 @@
-@import url("https://discordstyles.github.io/RadialStatus/base.css");
 @import url("https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css");
+@import url("https://discordstyles.github.io/RadialStatus/base.css");
+/* shoutouts to LuckFire and Gibbu */
+/* comes preloaded with radialstatus because i'm too stupid to fix an issue with statuses looking strange */
 
 /* colors the discover server buttons */
 .circleIconButton-jET_ig svg path{ fill: var(--background-accent); }
