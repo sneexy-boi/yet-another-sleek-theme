@@ -1,9 +1,7 @@
 @import url("https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css");
-@import url("https://discordstyles.github.io/RadialStatus/base.css");
-/* shoutouts to LuckFire#4800 and Gibbu#1211 */
-/* radial statuses is built in to fix the issue of the statuses next to avatars looking strange and i'm too stupid to fix it */
 
-/* colors the join/explore server buttons */
+@import url("https://discordstyles.github.io/RadialStatus/base.css");
+
 .circleIconButton-jET_ig svg path{ fill: var(--background-accent); }
 .circleIconButton-jET_ig.selected-ugP_am { background-color: var(--background-accent); }
 .circleIconButton-jET_ig.selected-ugP_am svg path{ fill: white; }
