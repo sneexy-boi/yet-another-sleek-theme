@@ -3,6 +3,19 @@
 /* shoutouts to LuckFire and Gibbu */
 /* comes preloaded with radialstatus because i'm too stupid to fix an issue with statuses looking strange */
 
+:root {
+  --rs-small-spacing: 2px;
+  --rs-large-spacing: 3px;
+  --rs-width: 2px;
+  --rs-avatar-shape: 10%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-invisible-color: #747f8d;
+}
+
 /* colors the discover server buttons */
 .circleIconButton-jET_ig svg path{ fill: var(--background-accent); }
 .circleIconButton-jET_ig.selected-ugP_am { background-color: var(--background-accent); }
