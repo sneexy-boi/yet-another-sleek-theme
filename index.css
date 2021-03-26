@@ -1,4 +1,4 @@
-/* source and stuff, replace with "https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css" for only colors */
+/* source and stuff */
 @import url("https://raw.githack.com/sneexy-boi/CutTheTheme/main/src/source.css");
 
 /* colors */
@@ -19,8 +19,8 @@
     --background-tertiary: #050505;
     --background-accent: #A23448;
     --background-floating: #050505;
-    --background-modifier-hover: #1d1c1c;
-    --background-modifier-active: #222020;
+    --background-modifier-hover: #181818;
+    --background-modifier-active: #2c2c2c;
     --background-modifier-selected: #363636;
     --background-modifier-accent: #141414;
     --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
@@ -44,8 +44,8 @@
     --toast-contents: var(--background-secondary);
     --toast-border: var(--background-tertiary);
     --toast-box-shadow: rgba(0, 0, 0, .2);
-    --rs-small-spacing: 1px;
-    --rs-large-spacing: 2px;
+    --rs-small-spacing: 0px;
+    --rs-large-spacing: 1px;
     --rs-width: 2px;
     --rs-avatar-shape: 10%;
     --rs-online-color: #43b581;
