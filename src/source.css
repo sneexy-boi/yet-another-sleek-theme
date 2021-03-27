@@ -16,15 +16,11 @@
 .modal-2VIBV8.root-1gCeng.small-3iVZYw.fullscreenOnMobile-1bD22y { background-color: #050505; }
 .modal-2VIBV8.root-1gCeng > .footer-2gL1pp { background-color: #050505; }
 /* message hover */
-div.message-2qnXI6:hover { background-color: #181818; }
+div.message-2qnXI6:hover { background-color: #1a1a1a; }
 /* any type of confirmation box */
 .theme-dark .message-2qRu38 { background-color: #050505; }
 .theme-dark .root-1gCeng { background-color: #050505; }
 .theme-dark .footer-2gL1pp { background-color: #050505; }
-/* reply color link looking thing */
-.repliedMessage-VokQwo { background-color: #50535C; }
-/* folder background (not the same as in ctc where its pure black but it makes it eaiser to find) */
-.expandedFolderBackground-1cujaW { background-color: #1a1a1a; }
 
 /* squared objects (thanks to Doggybootsy for helping me with squared avatars and server icons) */
 foreignObject{

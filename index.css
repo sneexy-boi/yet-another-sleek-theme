@@ -23,6 +23,7 @@
     --background-modifier-active: #252525;
     --background-modifier-selected: #363636;
     --background-modifier-accent: #141414;
+    --message-hover: #1a1a1a;
     --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
     --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
     --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
