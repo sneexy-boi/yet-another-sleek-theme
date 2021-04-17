@@ -1,8 +1,8 @@
 {
     "name": "CutTheTheme",
     "description": "Simple Powercord theme which tries to replicate the default CutTheCord theme.",
-    "version": "1.1.1",
-    "author": "Sneexy#2280",
+    "version": "1.1.2",
+    "author": "Ruben#2980",
     "theme": "index.css",
     "consent": "false",
     "splashTheme": "splash.css",

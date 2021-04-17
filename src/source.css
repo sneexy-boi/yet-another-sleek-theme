@@ -1,8 +1,3 @@
-@import url("https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css");
-@import url("https://discordstyles.github.io/RadialStatus/base.css");
-/* shoutouts to LuckFire and Gibbu */
-/* comes preloaded with radialstatus because i'm too stupid to fix an issue with statuses looking strange */
-
 /* discover server buttons */
 .circleIconButton-jET_ig svg path{ fill: #A23448; }
 .circleIconButton-jET_ig.selected-ugP_am { background-color: #00FF37; }

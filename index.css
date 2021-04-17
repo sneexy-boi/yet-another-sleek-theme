@@ -3,30 +3,22 @@
 
 /* colors */
 :root {
-    --header-primary: #fff;
-    --header-secondary: #b9bbbe;
-    --text-normal: #dcddde;
-    --text-muted: #72767d;
-    --text-link: #00FF37;
-    --channels-default: #8e9297;
-    --interactive-normal: #b9bbbe;
-    --interactive-hover: #dcddde;
-    --interactive-active: #fff;
-    --interactive-muted: #4f545c;
     --background-primary: #050505;
     --background-color: #050505;
     --background-secondary: #050505;
+    --background-secondary-alt: #050505;
     --background-tertiary: #050505;
     --background-accent: #A23448;
     --background-floating: #050505;
+    --background-accent-1: #050505;
+    --background-accent-3: #050505;
+    --background-floating-2: #050505;
+    --userarea-background: #050505;
+    --text-link: #00FF37;
     --background-modifier-hover: #1a1a1a;
     --background-modifier-active: #252525;
     --background-modifier-selected: #363636;
     --background-modifier-accent: #141414;
-    --message-hover: #1a1a1a;
-    --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
-    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
-    --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
     --channeltextarea-background: #050505;
     --activity-card-background: #050505;
     --deprecated-panel-background: #050505;
@@ -40,19 +32,4 @@
     --deprecated-text-input-border-hover: #040405;
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
-    --toast-background: var(--background-primary);
-    --toast-header: var(--background-tertiary);
-    --toast-contents: var(--background-secondary);
-    --toast-border: var(--background-tertiary);
-    --toast-box-shadow: rgba(0, 0, 0, .2);
-    --rs-small-spacing: 0px;
-    --rs-large-spacing: 1px;
-    --rs-width: 2px;
-    --rs-avatar-shape: 10%;
-    --rs-online-color: #43b581;
-    --rs-idle-color: #faa61a;
-    --rs-dnd-color: #f04747;
-    --rs-offline-color: #636b75;
-    --rs-streaming-color: #643da7;
-    --rs-invisible-color: #747f8d;
 }
