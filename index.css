@@ -13,7 +13,10 @@
     --background-accent-1: #050505;
     --background-accent-3: #050505;
     --background-floating-2: #050505;
-    --userarea-background: #050505;
+    --toast-background: #050505;
+    --toast-header: #050505;
+    --toast-contents: #050505;
+    --toast-border: #050505;
     --text-link: #00FF37;
     --background-modifier-hover: #1a1a1a;
     --background-modifier-active: #252525;

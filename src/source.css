@@ -16,6 +16,21 @@ div.message-2qnXI6:hover { background-color: #1a1a1a; }
 .theme-dark .message-2qRu38 { background-color: #050505; }
 .theme-dark .root-1gCeng { background-color: #050505; }
 .theme-dark .footer-2gL1pp { background-color: #050505; }
+/* friends list */
+.peopleColumn-29fq28 { background-color: #050505; }
+/* mentions list */
+.autocompleteInner-zh20B_ { background-color: #050505; }
+.selectorSelected-1_M1WV { background-color: #050505; }
+/* profile popouts */
+.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyCenter-3D2jYp.alignCenter-1dQNNs.noWrap-3jynv6.headerTop-3C2Zn0 { background-color: #050505; }
+.body-3iLsc4 { background-color: #050505; }
+.footer-1fjuF6 { background-color: #050505; }
+.quickMessage-2XpSaN.quickMessage-1yeL4E { background-color: #050505; }
+.activityUserPopout-2yItg2.activity-11LB_k { background-color: #050505; }
+/* upload popup */
+.uploadModal-2ifh8j { background-color: #050505; }
+.footer-3mqk7D { background-color: #050505; }
+
 
 /* squared objects (thanks to Doggybootsy for helping me with squared avatars and server icons) */
 foreignObject{
