@@ -1,7 +1,3 @@
-/* discover server buttons */
-.circleIconButton-jET_ig svg path{ fill: #A23448; }
-.circleIconButton-jET_ig.selected-ugP_am { background-color: #00FF37; }
-.circleIconButton-jET_ig.selected-ugP_am svg path{ fill: white; }
 /* reactions popup */
 .reactors-Blmlhw.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: #050505; }
 .scroller-1-nKid.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 { background-color: #050505; }
@@ -18,19 +14,21 @@ div.message-2qnXI6:hover { background-color: #1a1a1a; }
 .theme-dark .footer-2gL1pp { background-color: #050505; }
 /* friends list */
 .peopleColumn-29fq28 { background-color: #050505; }
+.section-2gLsgF { background-color: #050505; }
 /* mentions list */
 .autocompleteInner-zh20B_ { background-color: #050505; }
 .selectorSelected-1_M1WV { background-color: #050505; }
 /* profile popouts */
-.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyCenter-3D2jYp.alignCenter-1dQNNs.noWrap-3jynv6.headerTop-3C2Zn0 { background-color: #050505; }
-.body-3iLsc4 { background-color: #050505; }
-.footer-1fjuF6 { background-color: #050505; }
-.quickMessage-2XpSaN.quickMessage-1yeL4E { background-color: #050505; }
-.activityUserPopout-2yItg2.activity-11LB_k { background-color: #050505; }
+.theme-dark .body-3iLsc4 { background-color: #050505; }
+.theme-dark .footer-1fjuF6 { background-color: #050505; }
+.input-cIJ7To { background-color: #050505; }
+.vertical-V37hAW { background-color: #050505; }
+.justifyCenter-3D2jYp { background-color: #050505; }
+.headerTop-3C2Zn0 { background-color: #050505; }
 /* upload popup */
-.uploadModal-2ifh8j { background-color: #050505; }
-.footer-3mqk7D { background-color: #050505; }
-
+.theme-dark .footer-3mqk7D { background-color: #050505; }
+.inner-3nWsbo { background-color: #050505; }
+.theme-dark .uploadModal-2ifh8j { background-color: #050505; }
 
 /* squared objects (thanks to Doggybootsy for helping me with squared avatars and server icons) */
 foreignObject{
